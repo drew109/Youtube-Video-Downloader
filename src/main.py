@@ -53,4 +53,4 @@ print("--------------------Downloaded--------------------")
 
 
 #For the understanding of the checker https://bit.ly/3tSpumR that helped me to understand
-#Thank you for the help with file management with .gitignore (
+#Thank you for the help with file management with .gitignore (https://github.com/Ethan-Francolla)
